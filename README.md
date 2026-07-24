@@ -1,66 +1,47 @@
-<h1 align="center">Hi, I'm Meraj 👋</h1>
+<div align="center">
 
-<p align="center">
-Software Engineering Student • Backend Developer
-</p>
+# Hi, I'm Meraj 👋
 
----
+Backend Developer • TypeScript • Node.js • Discord.js
 
-## About Me
+Building modern Discord applications and learning software engineering through real-world projects.
 
-I'm currently learning software engineering by building real-world projects.
+[DiscordBot](https://github.com/Meraj-erj/DiscordBot) • [GitHub Profile](https://github.com/Meraj-erj)
 
-My main interests are:
-
-- TypeScript
-- Node.js
-- Discord.js
-- Backend Development
-- Clean Architecture
-- Linux
+</div>
 
 ---
 
-## Featured Project
+## 🚀 Featured Project
 
 ### DiscordBot
 
-A modern Discord application built with:
-
-- TypeScript
-- Node.js
-- discord.js
-- Slash Commands
-- Dependency Injection
-- Logging
-- Monitoring
-- Modular Architecture
-- Clean Architecture
+A modern Discord application built with **TypeScript**, **Node.js**, and **discord.js**, focusing on clean architecture, dependency injection, logging, monitoring, and modular design.
 
 🔗 **Repository:**  
 https://github.com/Meraj-erj/DiscordBot
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,discordjs,linux,docker,git,github,npm,vscode" />
 </p>
 
 ---
 
-## Currently Learning
+## 🌱 Currently Learning
 
-- Advanced TypeScript
 - Software Architecture
-- Scalable Backend Development
-- Modern Development Practices
+- Backend Development
+- Clean Architecture
+- Scalable Software
 
 ---
 
-## Contact
+<div align="center">
 
-- GitHub: https://github.com/Meraj-erj
-- Telegram: https://t.me/YOUR_USERNAME
-- Email: YOUR_EMAIL@example.com
+### Thanks for visiting 🤍
+
+</div>
