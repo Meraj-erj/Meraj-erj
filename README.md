@@ -1,47 +1,111 @@
 <div align="center">
 
-# Hi, I'm Meraj 👋
+# Meraj
 
 Backend Developer • TypeScript • Node.js • Discord.js
 
-Building modern Discord applications and learning software engineering through real-world projects.
+Building modern Discord applications while learning software engineering through real-world projects.
 
-[DiscordBot](https://github.com/Meraj-erj/DiscordBot) • [GitHub Profile](https://github.com/Meraj-erj)
+<p>
+  <a href="https://github.com/Meraj-erj/DiscordBot">DiscordBot</a> •
+  <a href="https://github.com/Meraj-erj">GitHub</a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 Featured Project
+## About
+
+I'm a software engineering student currently learning by building real-world applications.
+
+My primary focus is backend development with **TypeScript**, **Node.js**, and **discord.js**, while improving my understanding of clean architecture, modular software design, and production-ready development practices.
+
+---
+
+## Featured Project
 
 ### DiscordBot
 
-A modern Discord application built with **TypeScript**, **Node.js**, and **discord.js**, focusing on clean architecture, dependency injection, logging, monitoring, and modular design.
+A modern Discord application built with **TypeScript**, **Node.js**, and **discord.js**.
 
-🔗 **Repository:**  
+The project is designed as a long-term learning experience where I apply software engineering principles instead of only adding new features.
+
+### Highlights
+
+- TypeScript
+- Node.js
+- discord.js
+- Slash Commands
+- Dependency Injection
+- Logging
+- Monitoring
+- Modular Architecture
+- Clean Architecture
+- Production-oriented Design
+
+**Repository**
+
 https://github.com/Meraj-erj/DiscordBot
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,discordjs,linux,docker,git,github,npm,vscode" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,discordjs,linux,docker,git,github,npm,vscode" />
+
+</div>
 
 ---
 
-## 🌱 Currently Learning
+## Current Focus
 
-- Software Architecture
 - Backend Development
+- Software Architecture
 - Clean Architecture
 - Scalable Software
+- Modern Development Practices
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=Meraj-erj&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+
+<br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Meraj-erj&theme=github-dark&hide_border=true&radius=8" alt="Activity Graph"/>
+
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+<a href="https://github.com/Meraj-erj">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://t.me/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting 🤍
+*"Build software that is clean, maintainable, and made to last."*
 
 </div>
