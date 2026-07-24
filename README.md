@@ -1,31 +1,77 @@
-<h1 align="center">Hi, I'm Meraj! 👋</h1>
-<h3 align="center">🚀 Passionate about Security, Linux, and Crypto 🛡️🐧💰</h3>
+# Hi, I'm Meraj
+
+**Discord Bot Developer** • **TypeScript** • **Node.js** • **Linux**
+
+I'm currently building a modular Discord bot with a strong focus on clean architecture, scalability, and maintainable code. I enjoy learning backend development, improving software design skills, and building reliable applications.
+
+---
+
+## About Me
+
+* Building scalable Discord applications with **discord.js**
+* Developing with **TypeScript** and **Node.js**
+* Passionate about **Linux** and open-source software
+* Interested in **Software Architecture**, **Backend Development**, and **DevOps**
+* Always learning and improving through real-world projects
+
+---
+
+## Current Project
+
+### DiscordBot
+
+A modular Discord bot designed with maintainability and scalability in mind.
+
+**Features**
+
+* Slash Commands
+* Modular Project Structure
+* Dependency Injection
+* Logging System
+* Monitoring Framework
+* TypeScript
+* ESLint & Prettier
+* Clean Architecture
+
+This project is my primary focus and serves as a place to practice modern backend development principles while building production-quality software.
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Lanat+Be+Sansor;Down+with+Censorship">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,discordjs,linux,docker,git,github,vscode,npm" />
 </p>
 
 ---
 
-## 🛠 Tech Stack:
+## Currently Learning
+
+* Advanced TypeScript
+* Software Design Patterns
+* Dependency Injection
+* Docker
+* Monitoring & Logging
+* Backend Development
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,python,docker,vscode,html,css" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Meraj-erj&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meraj-erj&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Stats:
+## Contact
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meraj-erj&show_icons=true&theme=radical" width="48%" />
- <img src="https://user-images.githubusercontent.com/66507909/135775594-dd729ae2-22d7-4692-92e9-c174c29991b2.gif" width="30%">
-</p>
-
-</p>
-
----
-
-## 📬 Contact Me:
-<p align="center">
-  <a href="https://t.me/mamad_erj"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="mailto:mamadmeraj221@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:mamadmeraj221@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://t.me/mamad_erj">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
 </p>
