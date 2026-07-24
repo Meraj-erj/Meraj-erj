@@ -74,11 +74,11 @@ https://github.com/Meraj-erj/DiscordBot
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com/?user=Meraj-erj&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+<img height="170" src="https://streak-stats.demolab.com/?user=Meraj-erj&theme=github-dark&hide_border=true" />
 
-<br>
+<br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Meraj-erj&theme=github-dark&hide_border=true&radius=8" alt="Activity Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Meraj-erj&theme=github-dark&hide_border=true" />
 
 </div>
 
