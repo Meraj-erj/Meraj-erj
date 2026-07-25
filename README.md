@@ -1,4 +1,4 @@
-# Hi, I'm Meraj
+# Hi, I'm mary
 
 **Discord Bot Developer** • **TypeScript** • **Node.js** • **Linux**
 
